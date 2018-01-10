@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Promise Savior</title>
+    <style>
+        div {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+        }
+        .box1 { background-color: deepskyblue; }
+        .box2 { background-color: deeppink; }
+        .box3 { background-color: darkorange; }
+    </style>
+</head>
+<body>
+<div class="box1" style="margin-left: 0;"></div>
+<div class="box2" style="margin-left: 0;"></div>
+<div class="box3" style="margin-left: 0;"></div>
+<script>
+    const boxes = document.querySelectorAll('div');
+    function promiseAnimate(box, target) {
+
+        return new Promise(function (resolve, reject) {
+            let curLeft = parseInt(box.style.marginLeft);
+            let speed = curLeft < target ? 5 : -5;
+
+            let timer = setInterval(() => {
+                curLeft = curLeft + speed;
+                if (speed > 0 && curLeft >= target ||
+                    speed < 0 && curLeft <= target) {
+                    curLeft = target;
+                }
+                box.style.marginLeft = curLeft + 'px';
+
+                if (curLeft === target) {
+                    clearInterval(timer);
+                    resolve();
+                }
+            }, 13);
+        });
+    }
+
+    promiseAnimate(boxes[0], 300)
+        .then(() => {
+            return promiseAnimate(boxes[1], 400);
+        })
+        .then(() => {
+            return promiseAnimate(boxes[2], 500);
+        })
+        .then(() => {
+            return promiseAnimate(boxes[2], 150);
+        })
+        .then(() => {
+            return promiseAnimate(boxes[1], 150);
+        })
+        .then(() => {
+            return promiseAnimate(boxes[0], 150);
+        })
+        .catch((e) => {
+            console.log('Error:', e);
+        });
+</script>
+</body>
+</html>
