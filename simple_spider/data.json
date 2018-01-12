@@ -1,0 +1,649 @@
+[
+    {
+        "courseURL": "http://www.imooc.com/learn/348",
+        "id": 348,
+        "courseTitle": "进击Node.js基础（一）",
+        "chapters": [
+            {
+                "chapterTitle": "第1章 前言",
+                "videos": [
+                    {
+                        "videoTitle": "1-1Node.js基础-前言(01:20)",
+                        "videoURL": "http://www.imooc.com/video/6687"
+                    },
+                    {
+                        "videoTitle": "1-2为什么学习Nodejs(05:43)",
+                        "videoURL": "http://www.imooc.com/video/6688"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第2章 安装 Nodejs",
+                "videos": [
+                    {
+                        "videoTitle": "2-1Node.js基础-课程简介(01:19)",
+                        "videoURL": "http://www.imooc.com/video/6689"
+                    },
+                    {
+                        "videoTitle": "2-2Nodejs版本常识(01:02)",
+                        "videoURL": "http://www.imooc.com/video/6690"
+                    },
+                    {
+                        "videoTitle": "2-3Windows下安装Nodejs(04:43)",
+                        "videoURL": "http://www.imooc.com/video/6691"
+                    },
+                    {
+                        "videoTitle": "2-4Linux下安装Nodejs(06:24)",
+                        "videoURL": "http://www.imooc.com/video/6692"
+                    },
+                    {
+                        "videoTitle": "2-5Mac下安装Nodejs(03:55)",
+                        "videoURL": "http://www.imooc.com/video/6693"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第3章 等不及了来尝鲜",
+                "videos": [
+                    {
+                        "videoTitle": "3-1Node.js基础-起一个web服务器(05:14)",
+                        "videoURL": "http://www.imooc.com/video/6694"
+                    },
+                    {
+                        "videoTitle": "3-2Node.js基础-命令行中体验(02:47)",
+                        "videoURL": "http://www.imooc.com/video/6695"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第4章 模块与包管理工具",
+                "videos": [
+                    {
+                        "videoTitle": "4-1Node.js的模块与Commonjs规范(03:44)",
+                        "videoURL": "http://www.imooc.com/video/6697"
+                    },
+                    {
+                        "videoTitle": "4-2模块的分类(00:45)",
+                        "videoURL": "http://www.imooc.com/video/6700"
+                    },
+                    {
+                        "videoTitle": "4-3简单的Nodejs模块(09:23)",
+                        "videoURL": "http://www.imooc.com/video/6701"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第5章 横扫 Nodejs API",
+                "videos": [
+                    {
+                        "videoTitle": "5-1Node.js-不要陷入版本选择的深渊(02:32)",
+                        "videoURL": "http://www.imooc.com/video/6705"
+                    },
+                    {
+                        "videoTitle": "5-2URL网址解析的好帮手(10:30)",
+                        "videoURL": "http://www.imooc.com/video/6710"
+                    },
+                    {
+                        "videoTitle": "5-3QueryString参数处理小利器(06:40)",
+                        "videoURL": "http://www.imooc.com/video/6711"
+                    },
+                    {
+                        "videoTitle": "5-4HTTP知识先填坑(09:43)",
+                        "videoURL": "http://www.imooc.com/video/6712"
+                    },
+                    {
+                        "videoTitle": "5-5HTTP知识填坑之“以慕课网为例分析”(10:13)",
+                        "videoURL": "http://www.imooc.com/video/6713"
+                    },
+                    {
+                        "videoTitle": "5-6HTTP事件回调进阶(17:51)",
+                        "videoURL": "http://www.imooc.com/video/7557"
+                    },
+                    {
+                        "videoTitle": "5-7HTTP源码解读之先了解作用域、上下文(20:50)",
+                        "videoURL": "http://www.imooc.com/video/7558"
+                    },
+                    {
+                        "videoTitle": "5-8HTTP源码解读(22:08)",
+                        "videoURL": "http://www.imooc.com/video/7963"
+                    },
+                    {
+                        "videoTitle": "5-9HTTP性能测试(09:15)",
+                        "videoURL": "http://www.imooc.com/video/7964"
+                    },
+                    {
+                        "videoTitle": "5-10HTTP小爬虫(17:33)",
+                        "videoURL": "http://www.imooc.com/video/7965"
+                    },
+                    {
+                        "videoTitle": "5-11事件模块小插曲(15:15)",
+                        "videoURL": "http://www.imooc.com/video/8525"
+                    },
+                    {
+                        "videoTitle": "5-12Node.js：request方法(17:56)",
+                        "videoURL": "http://www.imooc.com/video/8837"
+                    }
+                ]
+            }
+        ],
+        "number": 190155
+    },
+    {
+        "courseURL": "http://www.imooc.com/learn/75",
+        "id": 75,
+        "courseTitle": "node+mongodb 建站攻略（一期）",
+        "chapters": [
+            {
+                "chapterTitle": "第1章 项目前期准备",
+                "videos": [
+                    {
+                        "videoTitle": "1-1项目前期准备(04:14)",
+                        "videoURL": "http://www.imooc.com/video/1084"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第2章 项目前后端流程打通",
+                "videos": [
+                    {
+                        "videoTitle": "2-1Node入口文件分析和目录初始化(01:20)",
+                        "videoURL": "http://www.imooc.com/video/1090"
+                    },
+                    {
+                        "videoTitle": "2-2创建四个jade视图及入口文件中处理(09:13)",
+                        "videoURL": "http://www.imooc.com/video/1200"
+                    },
+                    {
+                        "videoTitle": "2-3伪造模板数据跑通前后端交互流程(27:36)",
+                        "videoURL": "http://www.imooc.com/video/1226"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第3章 项目数据库实现",
+                "videos": [
+                    {
+                        "videoTitle": "3-1mongodb模式模型设计及编码(09:18)",
+                        "videoURL": "http://www.imooc.com/video/1091"
+                    },
+                    {
+                        "videoTitle": "3-2编写数据库交互代码(17:57)",
+                        "videoURL": "http://www.imooc.com/video/1202"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第4章 删除功能及项目生成配置文件",
+                "videos": [
+                    {
+                        "videoTitle": "4-1删除功能及项目生成配置文件(14:02)",
+                        "videoURL": "http://www.imooc.com/video/1092"
+                    }
+                ]
+            }
+        ],
+        "number": 83261
+    },
+    {
+        "courseURL": "http://www.imooc.com/learn/637",
+        "id": 637,
+        "courseTitle": "进击Node.js基础（二）",
+        "chapters": [
+            {
+                "chapterTitle": "第1章  从Promise 讲起",
+                "videos": [
+                    {
+                        "videoTitle": "1-1Node.js课程前言(00:52)",
+                        "videoURL": "http://www.imooc.com/video/11548"
+                    },
+                    {
+                        "videoTitle": "1-2先从一个牛逼闪闪的知识点Promise讲起(17:05)",
+                        "videoURL": "http://www.imooc.com/video/11549"
+                    },
+                    {
+                        "videoTitle": "1-3牛逼闪闪的Promise只需三点(06:33)",
+                        "videoURL": "http://www.imooc.com/video/11550"
+                    },
+                    {
+                        "videoTitle": "1-4重写爬虫，更优雅的异步编程(26:22)",
+                        "videoURL": "http://www.imooc.com/video/11551"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第2章 横扫 Nodejs API",
+                "videos": [
+                    {
+                        "videoTitle": "2-1横扫NodejsAPI-Buffer的实例化(06:59)",
+                        "videoURL": "http://www.imooc.com/video/11552"
+                    },
+                    {
+                        "videoTitle": "2-2横扫NodejsAPI-Buffer使用和源码解读(26:34)",
+                        "videoURL": "http://www.imooc.com/video/11553"
+                    },
+                    {
+                        "videoTitle": "2-3横扫NodejsAPI-Stream流动的数据(17:32)",
+                        "videoURL": "http://www.imooc.com/video/11554"
+                    },
+                    {
+                        "videoTitle": "2-4横扫NodejsAPI-Stream你是我的小水管(21:47)",
+                        "videoURL": "http://www.imooc.com/video/11555"
+                    }
+                ]
+            }
+        ],
+        "number": 67578
+    },
+    {
+        "courseURL": "http://www.imooc.com/learn/197",
+        "id": 197,
+        "courseTitle": "node建站攻略(二期)——网站升级",
+        "chapters": [
+            {
+                "chapterTitle": "第1章 课程内容提要",
+                "videos": [
+                    {
+                        "videoTitle": "1-1一期内容回顾(03:49)",
+                        "videoURL": "http://www.imooc.com/video/3763"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第2章 Grunt集成自动重启",
+                "videos": [
+                    {
+                        "videoTitle": "2-1Grunt集成自动重启(08:40)",
+                        "videoURL": "http://www.imooc.com/video/3764"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第3章 开发用户的注册登录功能",
+                "videos": [
+                    {
+                        "videoTitle": "3-1用户模型及密码处理(09:57)",
+                        "videoURL": "http://www.imooc.com/video/3765"
+                    },
+                    {
+                        "videoTitle": "3-2登录注册前端视图(10:40)",
+                        "videoURL": "http://www.imooc.com/video/3779"
+                    },
+                    {
+                        "videoTitle": "3-3注册用户后台存储(15:08)",
+                        "videoURL": "http://www.imooc.com/video/3781"
+                    },
+                    {
+                        "videoTitle": "3-4实现登录逻辑(08:17)",
+                        "videoURL": "http://www.imooc.com/video/3784"
+                    },
+                    {
+                        "videoTitle": "3-5保持用户状态知识讲解(12:59)",
+                        "videoURL": "http://www.imooc.com/video/3785"
+                    },
+                    {
+                        "videoTitle": "3-6利用mongodb做会话的持久化(02:58)",
+                        "videoURL": "http://www.imooc.com/video/3787"
+                    },
+                    {
+                        "videoTitle": "3-7注销用户、用户退出功能实现(06:04)",
+                        "videoURL": "http://www.imooc.com/video/4022"
+                    },
+                    {
+                        "videoTitle": "3-8会话持久逻辑预处理(03:49)",
+                        "videoURL": "http://www.imooc.com/video/3794"
+                    },
+                    {
+                        "videoTitle": "3-9调整目录结构、独立路由处理层(04:15)",
+                        "videoURL": "http://www.imooc.com/video/3796"
+                    },
+                    {
+                        "videoTitle": "3-10配置入口文件(04:23)",
+                        "videoURL": "http://www.imooc.com/video/3798"
+                    },
+                    {
+                        "videoTitle": "3-11调整目录结构，彻底分离mvc层(16:14)",
+                        "videoURL": "http://www.imooc.com/video/3801"
+                    },
+                    {
+                        "videoTitle": "3-12增加注册、登录跳转页面(10:50)",
+                        "videoURL": "http://www.imooc.com/video/3820"
+                    },
+                    {
+                        "videoTitle": "3-13用户权限管理(20:25)",
+                        "videoURL": "http://www.imooc.com/video/4021"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第4章 开发评论功能",
+                "videos": [
+                    {
+                        "videoTitle": "4-1设计评论的数据模型(07:15)",
+                        "videoURL": "http://www.imooc.com/video/3836"
+                    },
+                    {
+                        "videoTitle": "4-2评论存储、查询与展现(17:43)",
+                        "videoURL": "http://www.imooc.com/video/3837"
+                    },
+                    {
+                        "videoTitle": "4-3用户之间的相互回复功能(25:02)",
+                        "videoURL": "http://www.imooc.com/video/3839"
+                    },
+                    {
+                        "videoTitle": "4-4对评论做登录限制(02:21)",
+                        "videoURL": "http://www.imooc.com/video/3844"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第5章 实现电影的分类功能",
+                "videos": [
+                    {
+                        "videoTitle": "5-1设计分类的数据模型(03:46)",
+                        "videoURL": "http://www.imooc.com/video/3845"
+                    },
+                    {
+                        "videoTitle": "5-2分类后台录入及分类存储(21:33)",
+                        "videoURL": "http://www.imooc.com/video/3972"
+                    },
+                    {
+                        "videoTitle": "5-3电影录入增加分类选择(17:39)",
+                        "videoURL": "http://www.imooc.com/video/3973"
+                    },
+                    {
+                        "videoTitle": "5-4jsonp同步豆瓣数���api(12:39)",
+                        "videoURL": "http://www.imooc.com/video/3977"
+                    },
+                    {
+                        "videoTitle": "5-5电影录入增加分类自定义(07:30)",
+                        "videoURL": "http://www.imooc.com/video/3978"
+                    },
+                    {
+                        "videoTitle": "5-6增加分类列表及分页(18:38)",
+                        "videoURL": "http://www.imooc.com/video/4184"
+                    },
+                    {
+                        "videoTitle": "5-7增加搜索、共用列表及分页(09:38)",
+                        "videoURL": "http://www.imooc.com/video/4185"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第6章 增强后台功能",
+                "videos": [
+                    {
+                        "videoTitle": "6-1增加海报上传、统计功能(18:57)",
+                        "videoURL": "http://www.imooc.com/video/4186"
+                    },
+                    {
+                        "videoTitle": "6-2访客统计(04:10)",
+                        "videoURL": "http://www.imooc.com/video/4190"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第7章 增加单元测试",
+                "videos": [
+                    {
+                        "videoTitle": "7-1测试框架安装及grunt配置(03:28)",
+                        "videoURL": "http://www.imooc.com/video/4014"
+                    },
+                    {
+                        "videoTitle": "7-2编写user的测试用例(28:43)",
+                        "videoURL": "http://www.imooc.com/video/4016"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第8章 Grunt集成服务示例",
+                "videos": [
+                    {
+                        "videoTitle": "8-1Grunt集成服务示例(05:43)",
+                        "videoURL": "http://www.imooc.com/video/4013"
+                    },
+                    {
+                        "videoTitle": "8-2升级到Express4-x(21:21)",
+                        "videoURL": "http://www.imooc.com/video/8838"
+                    }
+                ]
+            }
+        ],
+        "number": 47826
+    },
+    {
+        "courseURL": "http://www.imooc.com/learn/728",
+        "id": 728,
+        "courseTitle": "创业公司的Nodejs工程师",
+        "chapters": [
+            {
+                "chapterTitle": "第1章 创业公司的Nodejs工程师",
+                "videos": [
+                    {
+                        "videoTitle": "1-1Nodejs工程师分享介绍(09:23)",
+                        "videoURL": "http://www.imooc.com/video/13004"
+                    },
+                    {
+                        "videoTitle": "1-2市场对于Nodejs工程师的需求(28:27)",
+                        "videoURL": "http://www.imooc.com/video/13005"
+                    },
+                    {
+                        "videoTitle": "1-3搭积木一样搭建Nodejs应用(08:06)",
+                        "videoURL": "http://www.imooc.com/video/13006"
+                    }
+                ]
+            }
+        ],
+        "number": 32108
+    },
+    {
+        "courseURL": "http://www.imooc.com/learn/259",
+        "id": 259,
+        "courseTitle": "带你学习Jade模板引擎",
+        "chapters": [
+            {
+                "chapterTitle": "第1章 课程前期准备",
+                "videos": [
+                    {
+                        "videoTitle": "1-1Jade模板引擎课程简介(08:40)",
+                        "videoURL": "http://www.imooc.com/video/5260"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第2章 Jade基础语法知识",
+                "videos": [
+                    {
+                        "videoTitle": "2-1Jade-文档声明和头尾标签(02:51)",
+                        "videoURL": "http://www.imooc.com/video/5262"
+                    },
+                    {
+                        "videoTitle": "2-2Jade-实现命令行实时编译(03:20)",
+                        "videoURL": "http://www.imooc.com/video/5264"
+                    },
+                    {
+                        "videoTitle": "2-3Jade-标签语法(01:45)",
+                        "videoURL": "http://www.imooc.com/video/5265"
+                    },
+                    {
+                        "videoTitle": "2-4Jade-属性文本和值(04:03)",
+                        "videoURL": "http://www.imooc.com/video/5266"
+                    },
+                    {
+                        "videoTitle": "2-5Jade-混合的成段文本和标签(03:03)",
+                        "videoURL": "http://www.imooc.com/video/5267"
+                    },
+                    {
+                        "videoTitle": "2-6Jade-注释和条件注释(09:21)",
+                        "videoURL": "http://www.imooc.com/video/5268"
+                    },
+                    {
+                        "videoTitle": "2-7Jade-变量声明和数据传递(05:31)",
+                        "videoURL": "http://www.imooc.com/video/5269"
+                    },
+                    {
+                        "videoTitle": "2-8Jade-安全转义与非转义(06:34)",
+                        "videoURL": "http://www.imooc.com/video/5270"
+                    },
+                    {
+                        "videoTitle": "2-9流程代码-for-each-while(08:20)",
+                        "videoURL": "http://www.imooc.com/video/5271"
+                    },
+                    {
+                        "videoTitle": "2-10流程代码-if-else-unless(05:29)",
+                        "videoURL": "http://www.imooc.com/video/5272"
+                    },
+                    {
+                        "videoTitle": "2-11神奇的mixins(11:46)",
+                        "videoURL": "http://www.imooc.com/video/5299"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第3章 Jade进级",
+                "videos": [
+                    {
+                        "videoTitle": "3-1Jade-模板的继承(05:44)",
+                        "videoURL": "http://www.imooc.com/video/5274"
+                    },
+                    {
+                        "videoTitle": "3-2Jade-模板的包含(04:22)",
+                        "videoURL": "http://www.imooc.com/video/5275"
+                    },
+                    {
+                        "videoTitle": "3-3render及renderFile方法(08:40)",
+                        "videoURL": "http://www.imooc.com/video/5277"
+                    },
+                    {
+                        "videoTitle": "3-4过滤器filters(03:19)",
+                        "videoURL": "http://www.imooc.com/video/5278"
+                    },
+                    {
+                        "videoTitle": "3-5runtime环境下使用jade(04:31)",
+                        "videoURL": "http://www.imooc.com/video/5279"
+                    },
+                    {
+                        "videoTitle": "3-6利用html2jade反编译(02:49)",
+                        "videoURL": "http://www.imooc.com/video/5280"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第4章 总结",
+                "videos": [
+                    {
+                        "videoTitle": "4-1Jade缺点及如何取舍(02:44)",
+                        "videoURL": "http://www.imooc.com/video/5287"
+                    }
+                ]
+            }
+        ],
+        "number": 29558
+    },
+    {
+        "courseURL": "http://www.imooc.com/learn/134",
+        "id": 134,
+        "courseTitle": "HTML5+CSS3实现“共嗨世界杯”",
+        "chapters": [
+            {
+                "chapterTitle": "第1章 这门课讲什么呢？",
+                "videos": [
+                    {
+                        "videoTitle": "1-1这门课讲什么呢？(01:15)",
+                        "videoURL": "http://www.imooc.com/video/2109"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第2章 准备工作",
+                "videos": [
+                    {
+                        "videoTitle": "2-1准备工作(10:59)",
+                        "videoURL": "http://www.imooc.com/video/2064"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第3章 制作球场1",
+                "videos": [
+                    {
+                        "videoTitle": "3-1制作球场1(09:48)",
+                        "videoURL": "http://www.imooc.com/video/2066"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第4章 制作球场2",
+                "videos": [
+                    {
+                        "videoTitle": "4-1制作球场2(14:42)",
+                        "videoURL": "http://www.imooc.com/video/2067"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第5章 制作赛场表",
+                "videos": [
+                    {
+                        "videoTitle": "5-1制作赛场表(17:13)",
+                        "videoURL": "http://www.imooc.com/video/2068"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第6章 逐帧动画技术点分析",
+                "videos": [
+                    {
+                        "videoTitle": "6-1逐帧动画技术点分析(06:24)",
+                        "videoURL": "http://www.imooc.com/video/2097"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第7章 动画节点插入及 requestAnimationFrame 封装",
+                "videos": [
+                    {
+                        "videoTitle": "7-1动画节点插入及requestAnimationFrame封装(09:09)",
+                        "videoURL": "http://www.imooc.com/video/2100"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第8章 canvas 上绘制静态的足球",
+                "videos": [
+                    {
+                        "videoTitle": "8-1canvas上绘制静态的足球(08:59)",
+                        "videoURL": "http://www.imooc.com/video/2101"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第9章 canvas 上绘制运动的足球",
+                "videos": [
+                    {
+                        "videoTitle": "9-1canvas上绘制运动的足球(11:53)",
+                        "videoURL": "http://www.imooc.com/video/2102"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第10章 canvas 上旋转足球，形成滚动",
+                "videos": [
+                    {
+                        "videoTitle": "10-1canvas上旋转足球，形成滚动(08:20)",
+                        "videoURL": "http://www.imooc.com/video/2103"
+                    }
+                ]
+            },
+            {
+                "chapterTitle": "第11章 利用 DOM 动画，对不支持 canvas 的浏览器做降级方案",
+                "videos": [
+                    {
+                        "videoTitle": "11-1利用DOM动画，对不支持canvas的浏览器做降级方案(11:00)",
+                        "videoURL": "http://www.imooc.com/video/2104"
+                    }
+                ]
+            }
+        ],
+        "number": 23145
+    }
+]

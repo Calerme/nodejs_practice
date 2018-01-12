@@ -12,16 +12,26 @@
     <summary>Scott 在慕课网上的免费课程列表</summary>
     <h2>课程目录（按听课听课人数排序）</h2>
     <ul>
-      <li><a href="#">Node.js 基础（一）</a><span>20980</span>人次</li>
+      {{#each this}}
+        <li><a href="#course-{{ @index }}">{{ courseTitle }}</a><span>{{ number }}</span>人次</li>
+      {{/each}}
     </ul>
     <hr>
-    <section id="3768">
-    <h3>Node.js基础</h3>
-      <ul>
-        <li>1.1 进入 Node 的世界<sub><a href="#">前往收听</a></sub></li>
-        <li>1.1 进入 Node 的世界<sub><a href="#">前往收听</a></sub></li>
-      </ul>
-    </section>
+    {{#each this}}
+      <section id="course-{{ @index }}">
+        <h3><a href="{{courseURL}}" target="_blank">{{ courseTitle }}</a></h3>
+        <ul>
+          {{#each chapters}}
+          <li>{{ chapterTitle }}</li>
+            <ul>
+              {{#each videos}}
+                <li>{{ videoTitle }}<sub><a href="{{videoURL}}" target="_blank">前往收听</a></sub></li>
+              {{/each}}
+            </ul>
+          {{/each}}
+        </ul>
+      </section>
+    {{/each}}
   </details>
 </body>
 </html>
